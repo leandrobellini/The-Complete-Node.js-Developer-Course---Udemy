@@ -1,8 +1,9 @@
 # The-Complete-Node.js-Developer-Course---Udemy
-Udemy Course: Learn Node.js by building real-world applications with Node, Express, MongoDB, Mocha, and more!
+Udemy Course: Learn Node.js by building real-world applications with Node, Express, MongoDB, Mocha, and more! 34.5 hours of classes.
 
 [https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview)
 
+Content:
 1. Node.js
 2. Npm
 3. Asynchronous programming
